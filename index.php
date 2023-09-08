@@ -35,7 +35,7 @@
                 deleteButton.addEventListener("click", function () {
                     taskList.removeChild(listItem);
                 });
-            }
+            }}
         }
     </script>
 </body>
